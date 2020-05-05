@@ -1,7 +1,7 @@
 # AppsProject
 
-requirements:
-- visual studio
+Requirements:
+- Visual Studio
 
 Run the app:
 Just "Play"
